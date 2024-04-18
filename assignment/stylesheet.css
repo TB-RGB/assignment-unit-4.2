@@ -1,3 +1,20 @@
 header {
-  background-color: darkgoldenrod;
+  background-color:darkgray;
+  opacity: 50%;
+}
+
+.info h2 {
+  background-color: darksalmon;
+  color: firebrick;
+}
+
+.info h3 {
+  background-color: thistle;
+  color: slateblue;
+}
+
+.info {
+  background-color: antiquewhite;
+  text-align: center;
+  box-shadow: 2px 2px 10px 23px #466db6;
 }
